@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hi there 👋, My name is Priyam Priyanshu Pradhan
 #### I am Web Developer and UI UX Designer
-![I am Web Developer and UI UX Designer](https://www.linkedin.com/in/priyam-priyanshu-pradhan-06a263231/overlay/background-image/)
+![I am Web Developer](https://www.linkedin.com/in/priyam-priyanshu-pradhan-06a263231/overlay/background-image/)
 
 I make projects for fun and am interested editing, animations, video editing 
 
